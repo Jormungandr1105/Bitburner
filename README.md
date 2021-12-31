@@ -1,2 +1,3 @@
 # Bitburner
-Repository for my Bitburner JS scripts
+
+A repository for my Bitburner JS scripts
